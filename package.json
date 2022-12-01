@@ -1,0 +1,23 @@
+{
+  "name": "mybilaccess",
+  "version": "1.0.0",
+  "description": "Verification NFT Receipt, that received information from the Portal and  process it and sends it the corresponding department they have requested grant information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christian-j174/MyBilAccess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christian-j174/MyBilAccess/issues"
+  },
+  "homepage": "https://github.com/christian-j174/MyBilAccess#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.3"
+  }
+}
