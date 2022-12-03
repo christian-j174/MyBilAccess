@@ -1,2 +1,3 @@
 # MyBilAccess
-Verification NFT Receipt, that received information from the Portal and  process it and sends it the corresponding department they have requested grant information 
+Verification NFT Receipt, received information from the MyBilAccess Portal and  then it processes the data and generates a key, which works to locate the request and access the DAO.
+
